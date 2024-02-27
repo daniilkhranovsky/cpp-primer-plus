@@ -1,0 +1,4 @@
+﻿  program.cpp
+C:\Users\love\source\repos\cpp-primer-plus\chapter 3\limits\program.cpp(9,15): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\love\source\repos\cpp-primer-plus\chapter 3\limits\program.cpp(9,17): warning C4309: инициализация: усечение константного значения
+  limits.vcxproj -> C:\Users\love\source\repos\cpp-primer-plus\chapter 3\limits\x64\Debug\limits.exe

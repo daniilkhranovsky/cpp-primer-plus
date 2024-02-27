@@ -1,0 +1,3 @@
+﻿  program.cpp
+C:\Users\love\source\repos\cpp-primer-plus\chapter 3\typecast\program.cpp(10,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  typecast.vcxproj -> C:\Users\love\source\repos\cpp-primer-plus\chapter 3\typecast\x64\Debug\typecast.exe

@@ -1,0 +1,4 @@
+﻿  program.cpp
+C:\Users\love\source\repos\cpp-primer-plus\chapter 3\assign\program.cpp(8,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\love\source\repos\cpp-primer-plus\chapter 3\assign\program.cpp(9,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  assign.vcxproj -> C:\Users\love\source\repos\cpp-primer-plus\chapter 3\assign\x64\Debug\assign.exe
